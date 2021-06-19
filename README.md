@@ -7,4 +7,4 @@ Esta análise explorativa busca achar relações entre a perda do bioma da Amaz�
 
 Também é feita uma exploração buscando informações sobre áreas de agropecuárias, para ver como se comportaram nos estados que tiveram suas áreas do bioma amazônico alteradas.
 
-Obs: o arquivo que mostra os gráficos é o ProjetoAnalyticahtml Pois foi preciso exportar o arquivo.ipynb para html para mostrar os gráficos no git.
+Obs: a visualização do arquivo é possivel baixando o repositório e rodando o notebook.
